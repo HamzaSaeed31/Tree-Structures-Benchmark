@@ -1,0 +1,9 @@
+2
+2016
+"Accidents (unintentional injuries) (V01-X59Y85-Y86)"
+Unintentional injuries
+Alaska
+439
+63.1
+1.txt
+3.txt

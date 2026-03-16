@@ -1,0 +1,9 @@
+1
+2016
+"Accidents (unintentional injuries) (V01-X59Y85-Y86)"
+Unintentional injuries
+Alabama
+2755
+55.5
+NULL
+NULL
